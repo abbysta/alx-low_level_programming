@@ -36,7 +36,7 @@ while (av[i][j])
 {
 s[k] = av[i][j];
 k++;
-j++
+j++;
 }
 s[k] = '\n';
 
